@@ -1,4 +1,6 @@
-![Header GentaHP](./images/header.png)
+<p align="center">
+    <img width="100%" src="./images/header.png" alt="Header">
+</p>
 
 ### About Me
 I’m a Fullstack Web Developer with experience in building scalable web applications, managing complex databases, and implementing innovative digital solutions.
