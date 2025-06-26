@@ -4,8 +4,8 @@ I’m a <b> Fullstack Web Developer </b> with over <b> 5 years experience </b> i
 
 - <img src="images/develop.gif" width="20"> Developed and maintained **end-to-end web applications**, from frontend interfaces to backend systems.  
 - <img src="images/api.gif" width="20"> Designed and implemented **efficient RESTful APIs** for seamless integration.
-- <img src="images/db.gif" width="20"> Optimized database performance and built systems capable of handling complex business logic.  
-- <img src="images/collaborate.gif" width="20"> Collaborated with cross-functional teams to deliver high-quality software on time.  
+- <img src="images/db.gif" width="20"> Optimized database **performance and built** systems capable of handling complex business logic.  
+- <img src="images/collaborate.gif" width="20"> Collaborated with **cross-functional teams** to deliver high-quality software on time.  
 
 I'm passionate about learning new technologies, improving code quality, and solving challenging problems to create impactful digital solutions <img src="images/star.gif" width="20">
 
