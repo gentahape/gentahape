@@ -15,7 +15,7 @@ I'm passionate about learning new technologies, improving code quality, and solv
 |   |  |
 | :---: | :---: |
 | Backend Development  | Frontend Development |
-| ![My Skills](https://skillicons.dev/icons?i=laravel,php,expressjs,nodejs,js,django,py)  | ![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,tailwind,materialui)  |
+| ![My Skills](https://skillicons.dev/icons?i=laravel,php,expressjs,nodejs,js,django,py)  | ![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,vue,tailwind,materialui)  |
 | Database Management  | DevOps & Tools |
 | ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase) | ![My Skills](https://skillicons.dev/icons?i=git,postman,ubuntu,bash,nginx,debian,aws) |
 
