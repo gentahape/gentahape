@@ -1,7 +1,5 @@
 ## Hello there, I'm Genta <img src="images/jake-is-unscreen.gif" width="30">
 
----
-
 I’m a <b> Fullstack Web Developer </b> with over <b> 5 years experience </b> in building scalable web applications, managing complex databases, and implementing innovative digital solutions <img src="images/18-06-24-613-512-unscreen.gif" width="20">
 
 - <img src="images/1c284399a50505ca9cb7642a71645bd1.gif" width="20"> Developed and maintained **end-to-end web applications**, from frontend interfaces to backend systems.  
