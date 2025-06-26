@@ -11,12 +11,6 @@ I am passionate about learning new technologies, improving code quality, and sol
 
 ---
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 ## <img src="images/Untitled-design-unscreen.gif" width="35"> **Tech Stack & Expertise**  
 |   |  |
 | :---: | :---: |
