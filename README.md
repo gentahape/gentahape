@@ -11,7 +11,7 @@ I'm passionate about learning new technologies, improving code quality, and solv
 
 ---
 
-## <img src="images/Untitled-design-unscreen.gif" width="35"> **Tech Stack & Expertise**  
+## <img src="images/original-6eb184f8d5f81e06df2d80923f08ed54(1).gif" width="35"> **Tech Stack & Expertise**  
 |   |  |
 | :---: | :---: |
 | Backend Development  | Frontend Development |
