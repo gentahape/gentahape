@@ -24,13 +24,5 @@ I am passionate about learning new technologies, improving code quality, and sol
 ## <img src="images/conversation(1).gif" width="50"> **Let's Connect!**  
 Feel free to reach out for collaboration <img src="images/2325474_c5d54.gif" width="20"> <br> 
 <p>
-    <a href="mailto:gentahp12@gmail.com" rel="nofollow noreferrer">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="github">
-    </a> &nbsp; 
-    <a href="https://www.gentahp.me/" rel="nofollow noreferrer">
-        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="github">
-    </a> &nbsp; 
-    <a href="https://www.linkedin.com/in/gentahp" rel="nofollow noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-    </a>
+    <a href="mailto:gentahp12@gmail.com" rel="nofollow noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="github"></a> &nbsp; <a href="https://www.gentahp.me/" rel="nofollow noreferrer"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="github"></a> &nbsp; <a href="https://www.linkedin.com/in/gentahp" rel="nofollow noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </p>
